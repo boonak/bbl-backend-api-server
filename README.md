@@ -65,7 +65,7 @@ To get the server running:
 ```
 npm install
 ```
-4. Start the server:
+3. Start the server:
 ```
 npm start
 ```
